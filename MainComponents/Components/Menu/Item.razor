@@ -1,0 +1,27 @@
+﻿
+<li class="nav-item">
+    <a class="nav-link" href="@Route">
+        <span class="nav-link-icon d-md-none d-lg-inline-block">
+
+            <!-- Download SVG icon from http://tabler-icons.io/i/home -->
+           @Icon
+
+        </span>
+        <span class="nav-link-title">
+            @Name
+        </span>
+    </a>
+</li>
+
+<style>
+
+</style>
+
+@code {
+    [Parameter]
+    public string Name { get; set; } = String.Empty;
+    [Parameter]
+    public string Route { get; set; } = String.Empty;
+    [Parameter]
+    public RenderFragment Icon { get; set; }
+}

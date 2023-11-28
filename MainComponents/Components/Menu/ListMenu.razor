@@ -1,0 +1,11 @@
+﻿<div class="collapse navbar-collapse" id="sidebar-menu">
+
+    <ul class="navbar-nav pt-lg-3">
+        @ChildContent
+    </ul>
+</div>
+
+@code {
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+}

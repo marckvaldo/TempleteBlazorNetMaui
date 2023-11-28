@@ -1,0 +1,16 @@
+﻿<a class="dropdown-item" href="@Router">
+    @Name
+
+    @if(Display != ""){
+        <span class="badge badge-sm bg-green-lt text-uppercase ms-auto">@Display</span>
+    }
+</a>
+
+@code {
+    [Parameter]
+    public string Name { get; set; } = String.Empty;
+    [Parameter]
+    public string Router { get; set; } = String.Empty;
+    [Parameter]
+    public string Display { get; set; } = "";
+}

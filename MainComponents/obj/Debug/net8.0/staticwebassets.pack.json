@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\IQ SISTEMAS\\Documents\\mShopping\\PDV\\PDV\\MainComponents\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MainComponents.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MainComponents.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\IQ SISTEMAS\\Documents\\mShopping\\PDV\\PDV\\MainComponents\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\IQ SISTEMAS\\Documents\\mShopping\\PDV\\PDV\\MainComponents\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MainComponents.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MainComponents.props",
+      "PackagePath": "build\\MainComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MainComponents.props",
+      "PackagePath": "buildMultiTargeting\\MainComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MainComponents.props",
+      "PackagePath": "buildTransitive\\MainComponents.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

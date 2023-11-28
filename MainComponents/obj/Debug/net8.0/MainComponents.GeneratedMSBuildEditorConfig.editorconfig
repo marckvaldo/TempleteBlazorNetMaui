@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = MainComponents
+build_property.RootNamespace = MainComponents
+build_property.ProjectDir = C:\Users\IQ SISTEMAS\Documents\mShopping\PDV\PDV\MainComponents\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\IQ SISTEMAS\Documents\mShopping\PDV\PDV\MainComponents
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/IQ SISTEMAS/Documents/mShopping/PDV/PDV/MainComponents/Components/Menu/Dropdown.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNZW51XERyb3Bkb3duLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IQ SISTEMAS/Documents/mShopping/PDV/PDV/MainComponents/Components/Menu/DropdownItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNZW51XERyb3Bkb3duSXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IQ SISTEMAS/Documents/mShopping/PDV/PDV/MainComponents/Components/Menu/Item.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNZW51XEl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IQ SISTEMAS/Documents/mShopping/PDV/PDV/MainComponents/Components/Menu/ListMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNZW51XExpc3RNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IQ SISTEMAS/Documents/mShopping/PDV/PDV/MainComponents/Shared/Main/Body.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5cQm9keS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IQ SISTEMAS/Documents/mShopping/PDV/PDV/MainComponents/Shared/Main/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5cSGVhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IQ SISTEMAS/Documents/mShopping/PDV/PDV/MainComponents/Shared/Main/Menu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5cTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IQ SISTEMAS/Documents/mShopping/PDV/PDV/MainComponents/Shared/Main/MyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5cTXlMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IQ SISTEMAS/Documents/mShopping/PDV/PDV/MainComponents/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IQ SISTEMAS/Documents/mShopping/PDV/PDV/MainComponents/Component1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-hqzi7ck0wv

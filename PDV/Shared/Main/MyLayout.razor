@@ -1,0 +1,23 @@
+﻿@inherits LayoutComponentBase
+@inject MenuService MenuService;
+
+<div class="page">
+
+    <main>
+         <MainComponents.Shared.Main.Menu menuData="@menuData"></MainComponents.Shared.Main.Menu>
+         <MainComponents.Shared.Main.Header></MainComponents.Shared.Main.Header>
+         <MainComponents.Shared.Main.Body>@Body</MainComponents.Shared.Main.Body>
+    </main>
+
+</div>
+
+@code {
+
+    private RootMenu menuData;
+
+    protected override async Task OnInitializedAsync()
+    {
+        menuData = await MenuService.GetMenu();
+    }
+    
+}
